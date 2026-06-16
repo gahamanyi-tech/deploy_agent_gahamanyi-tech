@@ -32,3 +32,5 @@ The script features a built-in safety cleanup routine that triggers automaticall
 3. This sends a system interrupt signal (SIGINT).
 
 The Result: The script instantly catches this interrupt, stops the installation, compresses any partial data into a backup recovery file named attendance_tracker_crash_test_archive.tar.gz, and completely purges the messy, unverified directories from your disk to leave your workspace perfectly clean.
+ 
+Here is the link to the video: https://drive.google.com/file/d/1AVtBzVnmm5YteJjIIKZA-poJ0vTW0Z1r/view?usp=sharing
